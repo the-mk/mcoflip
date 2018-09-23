@@ -1,4 +1,4 @@
-# mcoflip2
+# MCO Flippening
 
 ## Project setup
 ```
