@@ -1,3 +1,16 @@
-# MCO Flippening
+# mcoflip2
 
-This website shows the progress towards the MCO flippening
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
